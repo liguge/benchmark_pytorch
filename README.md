@@ -1,5 +1,5 @@
 # benchmark
-A reasonable evaluation benchmark for fault diagnosis using TensorFlow
+A reasonable evaluation benchmark for fault diagnosis using Pytorch
 
 
 Title: 
